@@ -4,6 +4,7 @@
 
 💻 **Desenvolvedor Full Stack .NET Sênior**  
 🧠 Especialista em integrações complexas, microsserviços e arquitetura de sistemas  
+👩🏻‍👨🏼‍🧒🏼 Pai do Arthur🧩 e marido apaixonado💖  
 📍 Campinas – SP, Brasil
 
 
@@ -28,7 +29,7 @@
 ![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![SOAP](https://img.shields.io/badge/SOAP-005571?style=for-the-badge&logo=postman&logoColor=white)
-![WCF](https://img.shields.io/badge/WCF-512BD4?style=for-the-badge&logo=postman&logoColor=white)
+![WCF](https://img.shields.io/badge/WCF-005BD1?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 🎨 Frontend
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
