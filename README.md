@@ -129,6 +129,8 @@ Sou desenvolvedor com conhecimento avançado em C#/.NET, adquirido ao longo de *
 
 Desenvolvo sistemas web e APIs escaláveis, atuando no desenvolvimento de soluções completas — dos requisitos ao deploy — com foco em performance, qualidade e arquitetura limpa.
 
+▹ **Desenvolvedor Full Stack na Act Digital (Alocado na Bosch):** Atuação em plataforma global de análise preditiva de fornecedores, com times internacionais e infraestrutura corporativa (Azure Entra ID, Azure DevOps, ArgoCD e Azure OpenAI). Full stack em .NET 10, React/TypeScript e Python/FastAPI, com orquestração de RAG e SQL Agent sobre data warehouse. Entrega do projeto em 2 sprints — metade do tempo previsto.
+
 ▹ **Tech Lead na Uniodonto:** Estruturei processos em um ambiente herdado, fiz code reviews e liderei o time de 10 desenvolvedores na criação de um ecossistema modular para substituir o sistema legado, utilizando .NET e React.js.
 
 ▹ **Desenvolvedor Fullstack na Rubik Studio:** Atuei de forma autônoma em diversos projetos do zero, como o **Nutrixy**, um sistema de nutrição com mais de 10 calculadoras clínicas complexas, entregues com .NET e Vue.js.
@@ -148,6 +150,8 @@ Nos últimos meses, mergulhei profundamente no universo de **Inteligência Artif
 ## 📁 Projetos em destaque
 
 Aqui estão alguns dos meus projetos disponíveis no meu portfólio:
+- 🤖 [**Plataforma Global de Análise Preditiva com IA**](https://behance.net/gustavo-alexandre) – Cliente Global · Setor Automotivo  
+  *Plataforma de análise preditiva de fornecedores com assistente de IA integrado. Desenvolvimento full stack em .NET 10, React/TypeScript e Python/FastAPI, com orquestração de RAG e SQL Agent sobre data warehouse. Entrega em 2 sprints — metade do tempo previsto.*
 
 - 🏥 [**Sistema de Auditoria Odontológica com Motor de Regras**](https://behance.net/gustavo-alexandre) – Uniodonto  
   *Sistema de gestão/auditoria de procedimentos odontológicos com motor de regras personalizável. Liderança técnica e arquitetura modular em C#, .NET 9 + React com PostgreSQL.*
