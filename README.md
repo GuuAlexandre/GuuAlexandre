@@ -4,7 +4,7 @@
 
 💻 **Desenvolvedor Full Stack .NET Sênior**  
 🧠 Especialista em integrações complexas, microsserviços e arquitetura de sistemas  
-👩🏻‍👨🏼‍🧒🏼 Pai do Arthur🧩 e marido apaixonado💖  
+👩🏻‍👨🏼‍🧒🏼 Pai do Arthur 🧩
 📍 Campinas – SP, Brasil
 
 
